@@ -1,13 +1,13 @@
 //import("acrylic_nut.stl");
 block_width=50;
 block_height=101.3;
-hex_side_length=7.5;
+hex_side_length=5.7735;
 
 hex_height=7;
 hex_offset=0.2;
 
 bolt_height=15;
-bolt_radius=5;
+bolt_radius=3;
 bolt_offset_1=10;
 bolt_offset_2=25;
 
